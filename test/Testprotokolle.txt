@@ -1,0 +1,159 @@
+Testprotokoll A1:
+1.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java TaxCalculation.java
+Please enter the annual income: 18.000
+The annual tax is 0.000 JD
+
+2.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java TaxCalculation.java
+Please enter the annual income: 34.675
+The annual tax is 2.935 JD
+
+3.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java TaxCalculation.java
+Please enter the annual income: 334.984
+The annual tax is 149.492 JD
+
+4.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java TaxCalculation.java
+Please enter the annual income: 25.000
+The annual tax is 1.000 JD
+
+Testprotokoll A2:
+1.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java EggMarking.java
+Please enter an egg marking code of Javaland:   234
+Grade: free-range
+Origin: Eggseption
+
+2.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java EggMarking.java
+Please enter an egg marking code of Javaland:   -345
+Invalid egg marking
+
+3.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java EggMarking.java
+Please enter an egg marking code of Javaland:   0
+Invalid egg marking
+
+4.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java EggMarking.java
+Please enter an egg marking code of Javaland:   123
+Grade: organic
+Origin: Eggseption
+
+5.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java EggMarking.java
+Please enter an egg marking code of Javaland:   306
+Grade: barn
+Origin: imported from Ameirika
+
+Testprotokoll A3:
+1.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java DigitSum
+0 0 -12
+Total sum of all digit sums = 0
+
+2.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java DigitSum
+1 2 3
+Digit sum of 1 = 1
+Digit sum of 2 = 2
+Digit sum of 3 = 3
+43x
+Digit sum of 43 = 7
+Total sum of all digit sums = 13
+
+3.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java DigitSum
+-23
+Total sum of all digit sums = 0
+
+4.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java DigitSum
+x
+empty sequence
+
+5.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java DigitSum
+34324234d32423
+Digit sum of 34324234 = 25
+Total sum of all digit sums = 25
+
+Testprotokoll A4:
+1.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java PaintTriangle.java
+How many lines should the triangle span? 2
+ /\
+/__\
+
+2.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java PaintTriangle.java
+How many lines should the triangle span? 3
+  /\
+ /  \
+/____\
+
+3.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java PaintTriangle.java
+How many lines should the triangle span? 7
+      /\
+     /  \
+    /    \
+   /      \
+  /        \
+ /          \
+/____________\
+
+4.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java PaintTriangle.java
+How many lines should the triangle span? 12
+           /\
+          /  \
+         /    \
+        /      \
+       /        \
+      /          \
+     /            \
+    /              \
+   /                \
+  /                  \
+ /                    \
+/______________________\
+
+5.
+C:\Users\schoo\Desktop\Uni\Softwareentwicklung-1\Uebungen\UE03\testing>java PaintTriangle.java
+How many lines should the triangle span? 33
+                                /\
+                               /  \
+                              /    \
+                             /      \
+                            /        \
+                           /          \
+                          /            \
+                         /              \
+                        /                \
+                       /                  \
+                      /                    \
+                     /                      \
+                    /                        \
+                   /                          \
+                  /                            \
+                 /                              \
+                /                                \
+               /                                  \
+              /                                    \
+             /                                      \
+            /                                        \
+           /                                          \
+          /                                            \
+         /                                              \
+        /                                                \
+       /                                                  \
+      /                                                    \
+     /                                                      \
+    /                                                        \
+   /                                                          \
+  /                                                            \
+ /                                                              \
+/________________________________________________________________\
