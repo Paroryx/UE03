@@ -29,15 +29,16 @@ Draw a triangle of a given number of rows using nested `for` loops.
 
 ## 📂 Project Structure  
 
-src/
-- In.java Helper class for input
-- Out.java Helper class for output
-- TaxCalculator.java Tax calculation task
-- EggMarking.java Egg marking task
-- DigitSum.java Digit sum task 
-- PaintTriangle.java Triangle drawing task
-test/
-- Testprotokolle.txt Test cases and results for all tasks
+``src/``
+- ``In.java`` Helper class for input
+- ``Out.java`` Helper class for output
+- ``TaxCalculator.java`` Tax calculation task
+- ``EggMarking.java`` Egg marking task
+- ``DigitSum.java Digit`` sum task 
+- ``PaintTriangle.java`` Triangle drawing task
+
+``test/``
+- ``Testprotokolle.txt`` Test cases and results for all tasks
 
 ---
 
