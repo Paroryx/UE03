@@ -37,7 +37,7 @@ Draw a triangle of a given number of rows using nested `for` loops.
 - ``DigitSum.java Digit`` sum task 
 - ``PaintTriangle.java`` Triangle drawing task
 
-``test/``
+``tests/``
 - ``Testprotokolle.txt`` Test cases and results for all tasks
 
 ---
